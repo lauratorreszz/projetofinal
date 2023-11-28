@@ -23,8 +23,8 @@ const Navbar = () => {
         </div>
       </div>
       <div className="DUCK__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
+        <p>Log in</p>
+        <button type="button">Cadastrar-se</button>
       </div>
       <div className="DUCK__navbar-menu">
         {toggleMenu
@@ -40,8 +40,8 @@ const Navbar = () => {
             <p><a href="#blog">aaaaa</a></p>
           </div>
           <div className="DUCK__navbar-menu_container-links-sign">
-            <p>Sign in</p>
-            <button type="button">Sign up</button>
+            <p>Log in</p>
+            <button type="button">Cadastrar-se</button>
           </div>
         </div>
         )}
