@@ -4,28 +4,27 @@ import './features.css';
 
 const featuresData = [
   {
-    title: 'Sed eu congue dolor, quis mollis justo. ',
-    text: 'Aliquam feugiat ante maximus, tempus lectus faucibus, maximus leo. Cras luctus dapibus erat, sit amet tempor eros auctor ac. ',
+    title: 'MONITORAMENTO EM TEMPO REAL. ',
+    text: 'O software permite o monitoramento das bombas de água em tempo real.',
   },
   {
-    title: 'Sed eu congue dolor, quis mollis justo. ',
-    text: 'Aliquam feugiat ante maximus, tempus lectus faucibus, maximus leo. Cras luctus dapibus erat, sit amet tempor eros auctor ac.',
+    title: 'SUPORTE TÉCNICO. ',
+    text: ' Além da instalação, o cliente também conta com um suporte técnico pronto para qualquer manutenção necessária.',
   },
   {
-    title: 'Sed eu congue dolor, quis mollis justo. ',
-    text: 'Aliquam feugiat ante maximus, tempus lectus faucibus, maximus leo. Cras luctus dapibus erat, sit amet tempor eros auctor ac. ',
+    title: 'EFICIÊNCIA.',
+    text: 'Automatiza trabalhos manuais para agilizar processos e aumenta a eficácia do trabalho oferecido pelos clientes.',
   },
   {
-    title: 'Sed eu congue dolor, quis mollis justo. ',
-    text: 'Aliquam feugiat ante maximus, tempus lectus faucibus, maximus leo. Cras luctus dapibus erat, sit amet tempor eros auctor ac. ',
+    title: 'DADOS DIVERSOS.',
+    text: 'O software informa a temperatura, vibração, tempo de funcionamento e alerta de falha da bomba. ',
   },
 ];
 
 const Features = () => (
   <div className="DUCK__features section__padding" id="features">
     <div className="DUCK__features-heading">
-      <h1 className="gradient__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac lorem quis quam gravida sodales ac eget nibh.</h1>
-      <p>Sed eu congue dolor, quis mollis justo. </p>
+      <h1 className="gradient__text">Nossas funcionalidades e qualidades</h1>
     </div>
     <div className="DUCK__features-container">
       {featuresData.map((item, index) => (

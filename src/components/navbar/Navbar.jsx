@@ -15,10 +15,9 @@ const Navbar = () => {
           </div>
         </div>
         <div className="DUCK__navbar-links_container">
-          <p><a href="#home">Home</a></p>
-          <p><a href="#wgpt3">aaaaa</a></p>
-          <p><a href="#possibility">aaaaa</a></p>
-          <p><a href="#features">aaaaa</a></p>
+          <p><a href="#home">Início</a></p>
+          <p><a href="#wDUCK">Sobre nós</a></p>
+          <p><a href="#features">Funções</a></p>
           <p><a href="#blog">aaaaa</a></p>
         </div>
       </div>
@@ -33,10 +32,9 @@ const Navbar = () => {
         {toggleMenu && (
         <div className="DUCK__navbar-menu_container scale-up-center">
           <div className="DUCK__navbar-menu_container-links">
-            <p><a href="#home">Home</a></p>
-            <p><a href="#wgpt3">aaaaa</a></p>
-            <p><a href="#possibility">aaaaa</a></p>
-            <p><a href="#features">aaaaa</a></p>
+            <p><a href="#home">Início</a></p>
+            <p><a href="#wDUCK">Sobre nós</a></p>
+            <p><a href="#features">Funções</a></p>
             <p><a href="#blog">aaaaa</a></p>
           </div>
           <div className="DUCK__navbar-menu_container-links-sign">

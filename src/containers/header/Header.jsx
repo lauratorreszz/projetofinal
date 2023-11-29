@@ -5,13 +5,8 @@ import './header.css';
 const Header = () => (
   <div className="DUCK__header section__padding" id="home">
     <div className="DUCK__header-content">
-      <h1 className="gradient__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
-      <p>Pellentesque nec diam et ipsum dictum lacinia. Phasellus id urna eu mauris fringilla consequat. Donec arcu nunc, volutpat ut lectus vel, blandit eleifend lorem.</p>
-
-      <div className="DUCK__header-content__input">
-        <input type="email" placeholder="Your Email Address" />
-        <button type="button">Get Started</button>
-      </div>
+      <h1 className="gradient__text">Software de monitoramento de bombas d'água</h1>
+      <p>O software visa praticidade, informações claras e maior segurança no monitoramento de bombas d'água. Assim, os clientes terão em suas mãos o conhecimento de seus equipamentos.</p>
     </div>
 
     <div className="DUCK__header-image">

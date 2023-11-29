@@ -5,36 +5,34 @@ import './footer.css';
 const Footer = () => (
   <div className="DUCK__footer section__padding">
     <div className="DUCK__footer-heading">
-      <h1 className="gradient__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
+      <h1 className="gradient__text">Monitore suas bombas de forma mais eficiente conosco.</h1>
     </div>
 
     <div className="DUCK__footer-btn">
-      <p>Request Early Access</p>
+      <p>Entre em contato por e-mail</p>
     </div>
 
     <div className="DUCK__footer-links">
       <div className="DUCK__footer-links_logo">
         <img src={gpt3Logo} alt="DUCK_logo" />
-        <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
       </div>
       <div className="DUCK__footer-links_div">
         <h4>Links</h4>
-        <p>Overons</p>
-        <p>Social Media</p>
-        <p>Counters</p>
-        <p>Contact</p>
+        <p>Instagram</p>
+        <p>Facebook</p>
+        <p>Twitter</p>
       </div>
       <div className="DUCK__footer-links_div">
-        <h4>Company</h4>
-        <p>Terms & Conditions </p>
-        <p>Privacy Policy</p>
-        <p>Contact</p>
+        <h4>Negócios</h4>
+        <p>Termos & Condições </p>
+        <p>Produto</p>
+        <p>Contato</p>
       </div>
       <div className="DUCK__footer-links_div">
-        <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
+        <h4>Venha nos conhecer</h4>
+        <p>Nova Friburgo</p>
         <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>duckriver@gmail.com</p>
       </div>
     </div>
 
