@@ -18,7 +18,6 @@ const Navbar = () => {
           <p><a href="#home">Início</a></p>
           <p><a href="#wDUCK">Sobre nós</a></p>
           <p><a href="#features">Funções</a></p>
-          <p><a href="#blog">aaaaa</a></p>
         </div>
       </div>
       <div className="DUCK__navbar-sign">
@@ -35,7 +34,6 @@ const Navbar = () => {
             <p><a href="#home">Início</a></p>
             <p><a href="#wDUCK">Sobre nós</a></p>
             <p><a href="#features">Funções</a></p>
-            <p><a href="#blog">aaaaa</a></p>
           </div>
           <div className="DUCK__navbar-menu_container-links-sign">
             <p>Log in</p>
